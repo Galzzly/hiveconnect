@@ -1,0 +1,8 @@
+github.com/Galzzly/gssapi v0.0.0-20150819220412-b14311d60b7d h1:j6uNJk1FzJB+x5RYHScD6FNbiJ281n94afkm7xtSdS4=
+github.com/Galzzly/gssapi v0.0.0-20150819220412-b14311d60b7d/go.mod h1:sfMVY4y8iZXHFqmIUvSY66ILg3WODGL3Vir5QaMefWU=
+github.com/apache/thrift v0.17.0 h1:cMd2aj52n+8VoAtvSvLn4kDC3aZ6IAkBuqWQ2IDu7wo=
+github.com/apache/thrift v0.17.0/go.mod h1:OLxhMRJxomX+1I/KUw03qoV3mMz16BwaKI+d4fPBx7Q=
+github.com/go-zookeeper/zk v1.0.3 h1:7M2kwOsc//9VeeFiPtf+uSJlVpU66x9Ba5+8XK7/TDg=
+github.com/go-zookeeper/zk v1.0.3/go.mod h1:nOB03cncLtlp4t+UAkGSV+9beXP/akpekBwL+UX1Qcw=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
